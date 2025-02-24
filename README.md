@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋🏻 I'm Marco
 
-<!--
-**bluesaturn/bluesaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently studying **Electronic and Computer Engineering**, with a passion for **coding** and working on **embedded systems**.
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 About Me:
+- 💻 **Learning**: Continuously improving my skills in **software development** and **embedded systems**.
+- 🔧 **Tools**: Java, C, C++, Arduino and Raspberry Pi.
+- 🏎️ **Software Developer**: Currently working for a **Formula SAE** team on **embedded software** and **vehicle telemetry system**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Facts:
+- I love solving complex problems and creating **real-world applications**.
+- Always learning new technologies and sharing what I learn with others.
+
+Feel free to browse my repositories, contribute, and connect!
